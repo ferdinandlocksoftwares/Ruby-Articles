@@ -106,3 +106,5 @@ Restricting access
 - Hide the "New Article" button from non-signed in users
 - Hide the "Edit" and "Delete" from non-owners of the articles
 - Permit the owners to edit or delete their own articles
+
+Homework: Do the same access to the controller for delete 
