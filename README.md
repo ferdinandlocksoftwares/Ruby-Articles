@@ -62,3 +62,10 @@ Scenario
 
 Expectations
 - expect both articles to display
+
+
+Show article feature test
+- create a branch
+- create 1 article to display
+
+- show article title and details
