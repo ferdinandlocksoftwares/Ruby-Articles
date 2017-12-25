@@ -86,3 +86,17 @@ Signing up user
 
 Invalid signup
 - do invalid signup and make sure it fails
+
+
+Association
+Articles will belong to users
+Users will own articles
+User - 1 side of this
+Articles - many
+
+1 user can have many article
+an article can only belong to 1 user
+foreign key of user_id in the articles table
+
+Steps:
+- Create the spec
