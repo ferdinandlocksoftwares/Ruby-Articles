@@ -100,3 +100,9 @@ foreign key of user_id in the articles table
 
 Steps:
 - Create the spec
+
+
+Restricting access
+- Hide the "New Article" button from non-signed in users
+- Hide the "Edit" and "Delete" from non-owners of the articles
+- Permit the owners to edit or delete their own articles
