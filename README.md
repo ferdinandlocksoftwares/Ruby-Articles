@@ -50,3 +50,15 @@ Process for creating articles feature test and feature
 Expectations:
 - Article has been created
 - articles path
+
+
+
+Listing Article Feature Test
+- create branch
+- create 2 articles
+
+Scenario
+- list the two articles
+
+Expectations
+- expect both articles to display
